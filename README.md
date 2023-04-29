@@ -5,7 +5,7 @@ I fell in love with development and now actively study it. <br>
 - 🌍  I'm based in Praha <br>
 - 🖥️  See my portfolio at <a href="https://yevheniivolokitin.github.io/portfolio/">Portfolio</a> <br>
 - ✉️  You can contact me at hej1ow9h@gmail.com <br>
-- 🚀  I'm currently working on Metrica Design Studio <br> 
+- 🚀  I'm currently working on <a href="https://yevheniivolokitin.github.io/metrika/"> Metrica Design Studio </a> <br> 
 - 🧠  I'm learning HTML, CSS, JS, React, Node.JS <br>
 - 🤝  I'm open to collaborating on any interesting projects to <br>
 Skills <br>
