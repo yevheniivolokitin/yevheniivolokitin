@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Yevhenii Volokitin</h1> <br>
-FrontEnd Developer <br>
+<h2>FrontEnd Developer</h2> <br>
 I fell in love with development and now actively study it. <br>
 
 🌍  I'm based in Praha <br>
