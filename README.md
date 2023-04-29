@@ -19,7 +19,6 @@ Skills <br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40px" alt=""><br>
  
 Socials <br>
-<img src="" height="40px" alt="">
-<img src="" height="40px" alt="">
-<img src="" height="40px" alt="">
-<img src="" height="40px" alt="">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt="">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40px" alt="">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40px" alt="">
