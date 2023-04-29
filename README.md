@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋 My name is Yevhenii Volokitin
+FrontEnd Developer
+I fell in love with development and now actively study it.
 
-<!--
-**yevheniivolokitin/yevheniivolokitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in Praha
+🖥️  See my portfolio at 
+✉️  You can contact me at hej1ow9h@gmail.com
+🚀  I'm currently working on Metrica Design Studio
+🧠  I'm learning HTML, CSS, JS, React, Node.JS
+🤝  I'm open to collaborating on any interesting projects to
+Skills
+JavaScript Git HTML5 CSS3 Sass Bootstrap NodeJS Figma
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials
+   
