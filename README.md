@@ -1,4 +1,4 @@
-Hi 👋 My name is Yevhenii Volokitin <br>
+<h1>Hi 👋 My name is Yevhenii Volokitin</h1> <br>
 FrontEnd Developer <br>
 I fell in love with development and now actively study it. <br>
 
