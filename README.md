@@ -9,7 +9,7 @@ I fell in love with development and now actively study it. <br>
 🧠  I'm learning HTML, CSS, JS, React, Node.JS <br>
 🤝  I'm open to collaborating on any interesting projects to <br>
 Skills <br>
-JavaScript Git HTML5 CSS3 Sass Bootstrap NodeJS Figma <br>
+![image](https://user-images.githubusercontent.com/125928155/235299261-1304a67c-4583-4645-a01d-5daa13a16d2f.png) Git HTML5 CSS3 Sass Bootstrap NodeJS Figma <br>
  
 Socials <br>
    
