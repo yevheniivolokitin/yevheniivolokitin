@@ -9,7 +9,7 @@ I fell in love with development and now actively study it. <br>
 🧠  I'm learning HTML, CSS, JS, React, Node.JS <br>
 🤝  I'm open to collaborating on any interesting projects to <br>
 Skills <br>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><br>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="30px" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><br>
  
 Socials <br>
    
