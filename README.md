@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Yevhenii Volokitin</h1> <br>
-<h2 style="margin-top:5px;">FrontEnd Developer</h2> <br>
+<h2">FrontEnd Developer</h2> <br>
 I fell in love with development and now actively study it. <br>
 
 🌍  I'm based in Praha <br>
@@ -19,6 +19,6 @@ Skills <br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40px" alt=""><br>
  
 Socials <br>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt="">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="40px" alt="">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40px" alt="">
+<a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt=""></a>
+<a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" height="40px" alt=""></a>
+<a href="https://instagram.com/hejloweh?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40px" alt=""></a>
