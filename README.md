@@ -20,5 +20,5 @@ Skills <br>
 <br>
  
 Socials <br>
-<a href="https://discord.com/users/Father#2897"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" target="_blank" alt=""></a>
+<a target="_blank" href="https://discord.com/users/Father#2897"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt=""></a>
 <a href="https://instagram.com/hejloweh?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40px" target="_blank" alt=""></a>
