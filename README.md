@@ -5,7 +5,7 @@ I fell in love with development and now actively study it. <br>
 🌍  I'm based in Praha <br>
 🖥️  See my portfolio at <br>
 ✉️  You can contact me at hej1ow9h@gmail.com <br>
-🚀  I'm currently working on Metrica Design Studio <br> в
+🚀  I'm currently working on Metrica Design Studio <br> 
 🧠  I'm learning HTML, CSS, JS, React, Node.JS <br>
 🤝  I'm open to collaborating on any interesting projects to <br>
 Skills <br>
@@ -19,6 +19,5 @@ Skills <br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40px" alt=""><br>
  
 Socials <br>
-<a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt=""></a>
-<a href=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegramm.svg" height="40px" alt=""></a>
+<a href="https://discord.com/users/Father#2897"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40px" alt=""></a>
 <a href="https://instagram.com/hejloweh?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" height="40px" alt=""></a>
